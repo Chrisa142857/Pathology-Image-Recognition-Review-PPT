@@ -1,2 +1,7 @@
 # Medical-Image-Recognition-Review
-Reviewing for Medical Image Recognition Works using PowerPoint
+Reviews for Medical Image Recognition Works using PowerPoint.
+
+This repo is a collection for some publications reviewing PPT.
+
+## Avaliable Publications:
+
